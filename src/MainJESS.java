@@ -85,7 +85,7 @@ public class MainJESS extends JFrame {
 		JButton btnAbout = new JButton("About");
 		btnAbout.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				String msg = "JESS Project by:\n1-Eslam Hamouda\n2-Bahaa Alaa\n3-Hossam Nabeeh\n4-Ahmed Wahdan\n4-Mohamed Shaalan\n\nThank You Dr\\Heba & Eng\\Amira!!!";
+				String msg = "JESS Project by:\n1-ahmed abdelgawad\n2-ahmed elkholy\n3-ahmed mamdouh\n4-ahmed eldeeb\n\nThank You Eng\\allam hamaz!!!";
 				JOptionPane.showMessageDialog(null, msg,"About the project",JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
